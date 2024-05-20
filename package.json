@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "javascript-time-ago": "^2.5.10",
+    "react-select": "^5.8.0",
+    "react-time-ago": "^7.3.3"
+  }
+}
